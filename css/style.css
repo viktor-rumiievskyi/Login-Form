@@ -8,7 +8,6 @@
 body {
 	background-image: linear-gradient(45deg, #e7e5f4, #776bcc);
 	background-position: 150% 150%;
-	animation: background-image-position 15s linear infinite;
 }
 
 .container {
@@ -57,14 +56,7 @@ body {
 	border-radius: 0 72px 0 0;
 }
 
-.screen_background_shape4 {
-	height: 400px;
-	width: 200px;
-	background-color: #7e7bb9;
-	top: 420px;
-	right: 50px;
-	border-radius: 60px;
-}
+
 
 .login {
 	width: 320px;
